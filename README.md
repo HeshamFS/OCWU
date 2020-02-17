@@ -1,4 +1,5 @@
-# OpenCourseWare [![CourseWare](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# OpenCourseWare [![CourseWare]
+(https://image.flaticon.com/icons/svg/579/579768.svg)](https://www.flaticon.com/authors/dinosoftlabs)
 
 A collection of awesome study resources for Science. \
 Please read the contributing guidelines if you wish to contribute.
