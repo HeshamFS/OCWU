@@ -24,6 +24,11 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 [Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
 
+#### YouTube Playlist
+
+[MIT 18.06SC Linear Algebra](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
+
+
 ## Chemistry 
 
 
