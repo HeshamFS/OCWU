@@ -20,7 +20,8 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ###### MITx's xMinor in Materials for Electronic, Optical, and Magnetic Devices XSeries
 
-[(1) Structure of Materials](https://www.edx.org/course/structure-of-materials) | [(2) Electronic, Optical, and Magnetic Properties of Materials](https://www.edx.org/course/electronic-optical-and-magnetic-properties-of-mate) | [(3) Electrical, Optical & Magnetic Materials and Devices](https://www.edx.org/course/electrical-optical-magnetic-materials-and-devices)
+[(1) Structure of Materials](https://www.edx.org/course/structure-of-materials) | [(2) Electronic, Optical, and Magnetic Properties of Materials](https://www.edx.org/course/electronic-optical-and-magnetic-properties-of-mate) \
+[(3) Electrical, Optical & Magnetic Materials and Devices](https://www.edx.org/course/electrical-optical-magnetic-materials-and-devices)
 
 
 
