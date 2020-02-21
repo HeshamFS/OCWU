@@ -12,7 +12,9 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ## Mathematics 
 
-##### Learn techniques to interpret and solve differential equations
+##### Differential equations
+
+###### MITx's 18.03x Differential Equations XSeries
 
 [Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)
 
