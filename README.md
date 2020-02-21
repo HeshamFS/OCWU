@@ -91,6 +91,12 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 [(1) Solar Resource Assessment in Desert Climates](https://www.edx.org/course/solar-resource-assessment-in-desert-climates) | [(2) Using Photovoltaic (PV) Technology in Desert Climates](https://www.edx.org/course/using-photovoltaic-pv-technology-in-desert-climate)
 
+
+###### ImperialX's Clean Power Professional Certificate 
+
+[(1) Why Move Towards Cleaner Power](https://www.edx.org/course/why-move-towards-cleaner-power) | [(2) Creating a Pro-Renewables Environment](https://www.edx.org/course/creating-a-pro-renewables-environment) | [(3) Incorporating Renewable Energy in Electricity Grids](https://www.edx.org/course/incorporating-renewable-energy-in-electricity-grid) 
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
