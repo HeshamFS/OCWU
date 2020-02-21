@@ -15,9 +15,12 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 ###### MITx's Introductory Electricity and Magnetism XSeries
 [(1) Electrostatics](https://www.edx.org/course/electricity-and-magnetism-electrostatics) | [(2) Magnetic Fields and Forces](https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forc) | [(3) Electricity and Magnetism](https://www.edx.org/course/electricity-and-magnetism-maxwells-equations)
 
-
 ###### MITx's Circuits and Electronics XSeries
 [(1) Basic Circuit Analysis](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2) | [(2) Amplification, Speed, and Delay](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-a-2) | [(3) Applications](https://www.edx.org/course/circuits-and-electronics-3-applications-2)
+
+###### MITx's xMinor in Materials for Electronic, Optical, and Magnetic Devices XSeries
+
+[(1) Structure of Materials](https://www.edx.org/course/structure-of-materials) | [(2) Electronic, Optical, and Magnetic Properties of Materials](https://www.edx.org/course/electronic-optical-and-magnetic-properties-of-mate) | [(3) Electrical, Optical & Magnetic Materials and Devices](https://www.edx.org/course/electrical-optical-magnetic-materials-and-devices)
 
 
 
