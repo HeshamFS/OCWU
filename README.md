@@ -10,6 +10,11 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ## Physics
 
+###### MITx's Introductory Mechanics XSeries
+[(1) Kinematics and Dynamics](https://www.edx.org/course/mechanics-kinematics-and-dynamics) | [(2) Momentum and Energy](https://www.edx.org/course/mechanics-momentum-and-energy) \
+[(3) Rotational Dynamics](https://www.edx.org/course/mechanics-rotational-dynamics) | [(4) Simple Harmonic Motion](https://www.edx.org/course/mechanics-simple-harmonic-motion)
+
+
 ## Data Science
 
 ###### MITx's Statistics and Data Science 
@@ -22,7 +27,6 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 [(1) R Basics](https://www.edx.org/course/data-science-r-basics) | [(2) Visualization](https://www.edx.org/course/data-science-visualization) | [(3) Probability](https://www.edx.org/course/data-science-probability) | [(4) Inference and Modeling](https://www.edx.org/course/data-science-inference-and-modeling) | [(5) Productivity Tools](https://www.edx.org/course/data-science-productivity-tools) \
 [(6) Wrangling](https://www.edx.org/course/data-science-wrangling) | [(7) Linear Regression](https://www.edx.org/course/data-science-linear-regression) | [(8) Machine Learning](https://www.edx.org/course/data-science-machine-learning) | [(9) Capstone](https://www.edx.org/course/data-science-capstone)
-
 
 
 
