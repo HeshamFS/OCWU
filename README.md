@@ -97,6 +97,14 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 [(1) Why Move Towards Cleaner Power](https://www.edx.org/course/why-move-towards-cleaner-power) | [(2) Creating a Pro-Renewables Environment](https://www.edx.org/course/creating-a-pro-renewables-environment) | [(3) Incorporating Renewable Energy in Electricity Grids](https://www.edx.org/course/incorporating-renewable-energy-in-electricity-grid) 
 
 
+###### DelftX's Solar Energy Engineering MicroMasters® Program
+
+[(1) Photovoltaic (PV) Energy Conversion](https://www.edx.org/course/solar-energy-photovoltaic-pv-energy-conversion) | [(2) Photovoltaic (PV) Technologies](https://www.edx.org/course/solar-energy-photovoltaic-pv-technologies) | [(3) Photovoltaic (PV) Systems](https://www.edx.org/course/solar-energy-photovoltaic-pv-systems) \
+[(4) Integration of Photovoltaic Systems in Microgrids](https://www.edx.org/course/solar-energy-integration-of-photovoltaic-systems-i) | [(5) Solar Energy Engineering: Comprehensive Exams](https://www.edx.org/course/solar-energy-engineering-comprehensive-exams)
+
+
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
