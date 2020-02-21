@@ -85,9 +85,10 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ###### MITx's Principles of Manufacturing MicroMasters® Program
 
-[(1) Manufacturing Process Control I](https://www.edx.org/course/manufacturing-process-control-i) | [(2) Manufacturing Systems I](https://www.edx.org/course/manufacturing-systems-i) | [(3) Management in Engineering: Accounting and Planning](https://www.edx.org/course/management-in-engineering-i) | [(4) Supply Chains for Manufacturing: Inventory Analytics
-](https://www.edx.org/course/supply-chains-for-manufacturing-i) | [(5) Manufacturing Process Control II](https://www.edx.org/course/manufacturing-process-control-ii) | [(6) Supply Chains for Manufacturing: Capacity Analytics
-](https://www.edx.org/course/supply-chains-for-manufacturing-ii) | [(7) Manufacturing Systems II](https://www.edx.org/course/manufacturing-systems-ii) | | [(8) Management in Engineering: Strategy and Leadership](https://www.edx.org/course/management-in-engineering-ii) | 
+[(1) Manufacturing Process Control I](https://www.edx.org/course/manufacturing-process-control-i) | [(2) Manufacturing Systems I](https://www.edx.org/course/manufacturing-systems-i) \
+[(3) Management in Engineering: Accounting and Planning](https://www.edx.org/course/management-in-engineering-i) | [(4) Supply Chains for Manufacturing: Inventory Analytics](https://www.edx.org/course/supply-chains-for-manufacturing-i) \
+[(5) Manufacturing Process Control II](https://www.edx.org/course/manufacturing-process-control-ii) | [(6) Supply Chains for Manufacturing: Capacity Analytics](https://www.edx.org/course/supply-chains-for-manufacturing-ii) \
+[(7) Manufacturing Systems II](https://www.edx.org/course/manufacturing-systems-ii) | | [(8) Management in Engineering: Strategy and Leadership](https://www.edx.org/course/management-in-engineering-ii) 
 
 ###### DelftX's Water Management XSeries 
 
