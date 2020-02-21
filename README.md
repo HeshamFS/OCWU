@@ -25,23 +25,7 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ###### HarvardX's Data Science
 
-[R Basics](https://www.edx.org/course/data-science-r-basics)
-
-[Visualization](https://www.edx.org/course/data-science-visualization)
-
-[Probability](https://www.edx.org/course/data-science-probability)
-
-[Inference and Modeling](https://www.edx.org/course/data-science-inference-and-modeling)
-
-[Productivity Tools](https://www.edx.org/course/data-science-productivity-tools)
-
-[Wrangling](https://www.edx.org/course/data-science-wrangling)
-
-[Linear Regression](https://www.edx.org/course/data-science-linear-regression)
-
-[Machine Learning](https://www.edx.org/course/data-science-machine-learning)
-
-[Capstone](https://www.edx.org/course/data-science-capstone)
+[R Basics](https://www.edx.org/course/data-science-r-basics) | [Visualization](https://www.edx.org/course/data-science-visualization) | [Probability](https://www.edx.org/course/data-science-probability) | [Inference and Modeling](https://www.edx.org/course/data-science-inference-and-modeling) | [Productivity Tools](https://www.edx.org/course/data-science-productivity-tools) | [Wrangling](https://www.edx.org/course/data-science-wrangling) | [Linear Regression](https://www.edx.org/course/data-science-linear-regression) | [Machine Learning](https://www.edx.org/course/data-science-machine-learning) | [Capstone](https://www.edx.org/course/data-science-capstone)
 
 
 
