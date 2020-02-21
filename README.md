@@ -10,6 +10,42 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ## Physics
 
+## Data Science
+
+###### MITx's Statistics and Data Science 
+
+[Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+
+[Data Analysis in Social Science](https://www.edx.org/course/data-analysis-in-social-scienceassessing-your-know)
+
+[Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics)
+
+[Machine Learning with Python](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
+
+
+###### HarvardX's Data Science
+
+[R Basics](https://www.edx.org/course/data-science-r-basics)
+
+[Visualization](https://www.edx.org/course/data-science-visualization)
+
+[Probability](https://www.edx.org/course/data-science-probability)
+
+[Inference and Modeling](https://www.edx.org/course/data-science-inference-and-modeling)
+
+[Productivity Tools](https://www.edx.org/course/data-science-productivity-tools)
+
+[Wrangling](https://www.edx.org/course/data-science-wrangling)
+
+[Linear Regression](https://www.edx.org/course/data-science-linear-regression)
+
+[Machine Learning](https://www.edx.org/course/data-science-machine-learning)
+
+[Capstone](https://www.edx.org/course/data-science-capstone)
+
+
+
+
 ## Mathematics 
 
 ##### Differential equations
