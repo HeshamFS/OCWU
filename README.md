@@ -18,6 +18,11 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 [(1) Electrostatics](https://www.edx.org/course/electricity-and-magnetism-electrostatics) | [(2) Magnetic Fields and Forces](https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forc) | [(3) Electricity and Magnetism](https://www.edx.org/course/electricity-and-magnetism-maxwells-equations)
 
 
+###### MITx's Circuits and Electronics XSeries
+[(1) Basic Circuit Analysis](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2) | [(2) Amplification, Speed, and Delay](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-a-2) | [(3) Applications](https://www.edx.org/course/circuits-and-electronics-3-applications-2)
+
+
+
 ## Data Science
 
 ###### MITx's Statistics and Data Science 
