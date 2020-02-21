@@ -15,7 +15,6 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 ###### MITx's Statistics and Data Science 
 
 [(1) Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) | [(2) Data Analysis in Social Science](https://www.edx.org/course/data-analysis-in-social-scienceassessing-your-know) \
-
 [(3) Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) | [(4) Machine Learning with Python](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
 
 
