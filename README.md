@@ -12,6 +12,9 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ## Mathematics 
 
+[Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) \
+
+
 ## Chemistry 
 
 
@@ -23,7 +26,9 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 #### MOOC
 [Mechanical Behavior of Materials, Part 1](https://www.edx.org/course/mechanical-behavior-of-materials-part-1-linear-ela) \
 [Mechanical Behavior of Materials, Part 2](https://www.edx.org/course/mechanical-behavior-of-materials-part-2-stress-tra) \
-[Mechanical Behavior of Materials, Part 3](https://www.edx.org/course/mechanical-behavior-of-materials-part-3-time-depen) \
+[Mechanical Behavior of Materials, Part 3](https://www.edx.org/course/mechanical-behavior-of-materials-part-3-time-depen) 
+
+
 
 
 ## YouTube
