@@ -12,8 +12,12 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ## Mathematics 
 
+####### Learn techniques to interpret and solve differential equations
+
 [Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) \
 
+[Differential Equations: Fourier Series and Partial Differential Equations
+](https://www.edx.org/course/differential-equations-fourier-series-and-partial)\
 
 ## Chemistry 
 
