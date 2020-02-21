@@ -14,7 +14,7 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ##### Learn techniques to interpret and solve differential equations
 
-[Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2) \
+[Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)\
 
 [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) \
 
