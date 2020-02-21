@@ -14,6 +14,9 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 [(1) Kinematics and Dynamics](https://www.edx.org/course/mechanics-kinematics-and-dynamics) | [(2) Momentum and Energy](https://www.edx.org/course/mechanics-momentum-and-energy) \
 [(3) Rotational Dynamics](https://www.edx.org/course/mechanics-rotational-dynamics) | [(4) Simple Harmonic Motion](https://www.edx.org/course/mechanics-simple-harmonic-motion)
 
+###### MITx's Introductory Electricity and Magnetism XSeries
+[(1) Electrostatics](https://www.edx.org/course/electricity-and-magnetism-electrostatics) | [(2) Magnetic Fields and Forces](https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forc) | [(3) Electricity and Magnetism](https://www.edx.org/course/electricity-and-magnetism-maxwells-equations)
+
 
 ## Data Science
 
