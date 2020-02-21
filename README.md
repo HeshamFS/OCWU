@@ -6,8 +6,6 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 # Science
 
-## Material Science
-
 ## Physics
 
 ###### MITx's Introductory Mechanics XSeries
