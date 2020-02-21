@@ -81,9 +81,11 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 
 
+## Engineering and Management
 
+###### DelftX's Water Management XSeries 
 
-
+[(1) Introduction to Water and Climate](https://www.edx.org/course/introduction-to-water-and-climate) | [(2) Drinking Water Treatment](https://www.edx.org/course/drinking-water-treatment-2) | [(3) Urban Sewage Treatment](https://www.edx.org/course/urban-sewage-treatment) 
 
 
 
