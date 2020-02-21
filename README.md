@@ -12,7 +12,7 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 ## Mathematics 
 
-####### Learn techniques to interpret and solve differential equations
+###### Learn techniques to interpret and solve differential equations
 
 [Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) \
 
