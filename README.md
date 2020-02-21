@@ -10,6 +10,9 @@ A collection of awesome study resources for Science & Engineering. \
 
 ## Physics
 
+## Mathematics 
+
+## Chemistry 
 
 
 
