@@ -17,7 +17,7 @@ A collection of awesome study resources for Science & Engineering. \
 
 ## Performance Engineering
 
-[Performance Engineering of Software Systems](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+[MIT 6.172 - Performance Engineering of Software Systems](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 
 
 
