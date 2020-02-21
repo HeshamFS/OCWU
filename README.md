@@ -43,7 +43,8 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 [Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
 
 ##### Linear Algebra
-###### MIT 18.06SC Linear Algebra [OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm) | [Youtube](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
+###### MIT 18.06SC Linear Algebra 
+[OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm) | [Youtube](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
 
 
 ## Chemistry 
