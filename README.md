@@ -77,14 +77,6 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 
 
-## YouTube
-
-[MIT 6.172 - Performance Engineering of Software Systems](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
-
-
-
-
-
 ## Engineering and Management
 
 ###### MITx's Principles of Manufacturing MicroMasters® Program
@@ -112,6 +104,22 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 [(1) Photovoltaic (PV) Energy Conversion](https://www.edx.org/course/solar-energy-photovoltaic-pv-energy-conversion) | [(2) Photovoltaic (PV) Technologies](https://www.edx.org/course/solar-energy-photovoltaic-pv-technologies) | [(3) Photovoltaic (PV) Systems](https://www.edx.org/course/solar-energy-photovoltaic-pv-systems) \
 [(4) Integration of Photovoltaic Systems in Microgrids](https://www.edx.org/course/solar-energy-integration-of-photovoltaic-systems-i) | [(5) Solar Energy Engineering: Comprehensive Exams](https://www.edx.org/course/solar-energy-engineering-comprehensive-exams)
+
+
+
+# YouTube
+
+## Science
+
+[MIT - Classical Mechanics](https://www.youtube.com/watch?v=F3N5EkMX_ks&list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV)
+
+[MIT - Differential Equations](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980)
+
+
+## Engineering
+[MIT - Performance Engineering of Software Systems](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+
+[MIT - Introduction to Nuclear Engineering and Ionizing Radiation](https://www.youtube.com/watch?v=7LyvAVjQUR8&list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu)
 
 
 
