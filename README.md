@@ -157,7 +157,7 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 
 ## Contributing
-Please take a quick gander at the contribution guidelines for details. Thanks to all contributors; you rock!
+Please take a quick gander at the [contribution guidelines (https://github.com/HeshamFS/OpenCourseWare/blob/master/CONTRIBUTING.md) for details. Thanks to all contributors; you rock!
 
 If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!
 
