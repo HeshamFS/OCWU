@@ -14,4 +14,4 @@
 9) Use Proper commit message in order to stay listed for our awesome contributors.
 
 
-## Thank you for your suggestions!
+#### Thank you for your suggestions!
