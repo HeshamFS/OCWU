@@ -4,7 +4,7 @@
 
 1) Please search previous suggestions before making a new one, as yours may be a duplicate.
 2) Please make an individual pull request for each suggestion.
-2) Use the following format: [RESOURCE](REPO-LINK) - DESCRIPTION. [LICENCE] [website](WEB-LINK)
+2) Use the following format: \[RESOURCE\]\(REPO-LINK\) - DESCRIPTION. [LICENCE] \[website\]\(WEB-LINK\)
 3) Keep descriptions short and simple.
 4) End all descriptions with a full stop/period.
 5) Make sure your text editor is set to remove trailing whitespace.
