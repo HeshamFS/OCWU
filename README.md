@@ -153,10 +153,7 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 [Quantum Mechanics II](https://www.youtube.com/watch?v=rryxc2uxwRA&list=PL-XWNe_oYcGMgJC-hRSTO-HaNNlsFRYbe)
 
-
-
-
-[Special Theory of Relativity - Dr. Tarek Ibrahim](https://www.youtube.com/watch?v=5GGgDqUkN4k&list=PL-XWNe_oYcGPXF5Cd8P0oFvTFIB-7tV_z)
+[Special Theory of Relativity](https://www.youtube.com/watch?v=5GGgDqUkN4k&list=PL-XWNe_oYcGPXF5Cd8P0oFvTFIB-7tV_z)
 
 
 ## License
