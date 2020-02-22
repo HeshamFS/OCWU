@@ -156,6 +156,11 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 [Special Theory of Relativity](https://www.youtube.com/watch?v=5GGgDqUkN4k&list=PL-XWNe_oYcGPXF5Cd8P0oFvTFIB-7tV_z)
 
 
+Contributing
+Please take a quick gander at the contribution guidelines for details. Thanks to all contributors; you rock!
+
+If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
