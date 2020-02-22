@@ -137,6 +137,26 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 [MIT - Introduction to Nuclear Engineering and Ionizing Radiation](https://www.youtube.com/watch?v=7LyvAVjQUR8&list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu)
 
 
+## Zewail City
+
+[Mathematical Physics I](https://www.youtube.com/watch?v=ISSKc4H3Fg0&list=PL-XWNe_oYcGPNEZGQHj1G_meW5wytbj5J)
+
+[Mathematical Physics II](https://www.youtube.com/watch?v=823CYznx4Is&list=PL-XWNe_oYcGOnRvkXNBOJbUXGFrSneeXd_)
+
+[Ordinary Differential Equations](https://www.youtube.com/watch?v=nSzd35CUi5A&list=PL-XWNe_oYcGOkjUerkx2IQVrnvEkh9me4)
+
+[Partial Differential Equations and Complex Analysis](https://www.youtube.com/watch?v=5jTN8C3LYrk&list=PL-XWNe_oYcGNTdsQ57exHIfw9cz5A8XAl)
+
+[Linear Algebra and Vector Geometry](https://www.youtube.com/watch?v=bMTU8brzEwA&list=PL-XWNe_oYcGP-ZoRaODBHsRCQltIHKq6A)
+
+[Electromagnetism](https://www.youtube.com/watch?v=uRbhUVtnxqo&list=PL-XWNe_oYcGMg3b2x4xpv_AptvvY-Z86g)
+
+[Quantum Mechanics II](https://www.youtube.com/watch?v=rryxc2uxwRA&list=PL-XWNe_oYcGMgJC-hRSTO-HaNNlsFRYbe)
+
+
+
+
+[Special Theory of Relativity - Dr. Tarek Ibrahim](https://www.youtube.com/watch?v=5GGgDqUkN4k&list=PL-XWNe_oYcGPXF5Cd8P0oFvTFIB-7tV_z)
 
 
 ## License
