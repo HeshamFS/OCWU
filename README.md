@@ -4,6 +4,14 @@
 
 A collection of awesome study resources for [Science](https://github.com/HeshamFS/OpenCourseWare#science) & [Engineering](https://github.com/HeshamFS/OpenCourseWare#engineering). 
 
+Table of Contents
+-----------------
+
+- [Science](#Science)
+- [Engineering](#Engineering)
+- [Contributing](#Contributing)
+- [License](#License)
+
 
 
 # Science
