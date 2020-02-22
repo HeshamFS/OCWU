@@ -107,13 +107,28 @@ A collection of awesome study resources for [Science](https://github.com/HeshamF
 
 
 
-# YouTube
+# YouTube ( A complete Module )
 
 ## Science
+
+[MIT - Quantum Physics I](https://www.youtube.com/watch?v=jANZxzetPaQ&list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
+
+[MIT - Quantum Physics II](https://www.youtube.com/watch?v=QI13S04w8dM&list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx)
+
+[MIT - Quantum Physics III](https://www.youtube.com/watch?v=_OZXEb8FxZQ&list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
 
 [MIT - Classical Mechanics](https://www.youtube.com/watch?v=F3N5EkMX_ks&list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV)
 
 [MIT - Differential Equations](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980)
+
+[MIT - Introduction to Probability](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
+[MIT - Statistics for Applications](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+
+[MIT - Statistical Mechanics I](https://www.youtube.com/watch?v=4RX_lpoGRBg&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)
+
+[MIT - Statistical Mechanics II](https://www.youtube.com/watch?v=2MaQKFHqYBw&list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)
+
 
 
 ## Engineering
