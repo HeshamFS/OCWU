@@ -8,6 +8,7 @@ Table of Contents
 -----------------
 
 - [Science](#Science)
+  -[Physics](#Physics)
 - [Engineering](#Engineering)
 - [Contributing](#Contributing)
 - [License](#License)
