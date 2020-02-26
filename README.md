@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/24739579/75089714-15d73900-555c-11ea-8d6a-24abeb916b29.png)
+![profile1](https://user-images.githubusercontent.com/24739579/75377906-0432c000-58d3-11ea-9a81-04ba97259496.png)
 
 # OCWU [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
