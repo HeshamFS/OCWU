@@ -11,8 +11,10 @@
 
 
 # Table of Contents
-- [Science](#science)
-  -[Physics](#physics)
+- [Science](#science) 
+  - [Physics](#physics)
+  - [Data Science](#datascience)
+  - [Mathematics](#mathematics)
 - [Engineering](#Engineering)
 - [Contributing](#Contributing)
 - [License](#License)
