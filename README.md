@@ -13,7 +13,7 @@
 # Table of Contents
 - [Science](#science) 
   - [Physics](#physics)
-  - [Data Science](#datascience)
+  - [Data Science](#data-science)
   - [Mathematics](#mathematics)
 - [Engineering](#Engineering)
 - [Contributing](#Contributing)
