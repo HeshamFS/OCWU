@@ -1,19 +1,21 @@
 ![profile1](https://user-images.githubusercontent.com/24739579/75377906-0432c000-58d3-11ea-9a81-04ba97259496.png)
 
-# OCWU [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<h3 align="center">Open Course Ware University</h3>
+<p align="center">
+  A collection of awesome study resources for Science & Engineering!
+</p>
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+</p>
 
-A collection of awesome study resources for [Science](https://github.com/HeshamFS/OpenCourseWare#science) & [Engineering](https://github.com/HeshamFS/OpenCourseWare#engineering). 
 
-Table of Contents
------------------
-
-- [Science](#Science)
-  -[Physics](#Physics)
+# Table of Contents
+- [Science](#science)
+  -[Physics](#physics)
 - [Engineering](#Engineering)
 - [Contributing](#Contributing)
 - [License](#License)
-
-
 
 # Science
 
