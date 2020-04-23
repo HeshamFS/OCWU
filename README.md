@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/24739579/80136523-1b73ee00-85a2-11ea-8ae1-61d47aed8370.png)
+![cover](https://user-images.githubusercontent.com/24739579/80136605-39d9e980-85a2-11ea-86ee-7cbe6d37b857.png)
 
 <h3 align="center">Open Course Ware University</h3>
 <p align="center">
