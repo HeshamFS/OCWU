@@ -152,7 +152,7 @@
 [MIT - Introduction to Nuclear Engineering and Ionizing Radiation](https://www.youtube.com/watch?v=7LyvAVjQUR8&list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu)
 
 
-## Zewail City
+## Zewail City (Arabic)
 
 [Mathematical Physics I](https://www.youtube.com/watch?v=ISSKc4H3Fg0&list=PL-XWNe_oYcGPNEZGQHj1G_meW5wytbj5J)
 
